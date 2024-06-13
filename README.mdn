@@ -1,0 +1,1 @@
+News app  is a full-stack web application designed to provide users with the latest news articles from various sources. The project leverages the News API to fetch current news and display it in a user-friendly manner using a React frontend. MongoDB is used to store user-related data, such as saved articles and user profiles.
